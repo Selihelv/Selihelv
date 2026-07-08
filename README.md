@@ -33,6 +33,15 @@ Passionate about building clean, scalable backend applications and continuously 
 - 🌍 Based in Barcelona, Spain.
 
 
+## 💡 Core Skills
+
+- RESTful API Development
+- Authentication & Authorization (JWT)
+- Database Design
+- Object-Oriented Programming
+- Clean Code
+
+
 ## 🎯 2026 Goals
 
 - 🚀 Build CareerOS
@@ -63,7 +72,6 @@ A job search management platform designed to help candidates organize every step
 
 - Spring Security
 - Clean Architecture
-- Clean Architecture
 - GitHub Actions
 - Docker
 
@@ -71,12 +79,10 @@ A job search management platform designed to help candidates organize every step
 
 ## ⭐ Featured Projects
 
-## ⭐ Featured Projects
-
 | Project | Description |
 |----------|-------------|
-| 🚀 [ComplianceHubAPI](https://github.com/Selihelv/ComplianceHubAPI) | Enterprise-ready REST API built with Spring Boot, JWT authentication and role-based access control. |
-| 🚧 CarrerOs *(Coming soon)* | A job search management platform currently under development. |
+| 🚀 [ComplianceHubAPI](https://github.com/Selihelv/ComplianceHubAPI) | REST API for compliance management built with Spring Boot, JWT authentication, role-based authorization and MySQL.|
+| 🚧 CareerOs *(In Progress)* | A job search management platform currently under development. |
 
 ---
 
@@ -99,13 +105,13 @@ A job search management platform designed to help candidates organize every step
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Build & Development
+### Build Tools
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![Lombok](https://img.shields.io/badge/Lombok-CA4245?style=for-the-badge)
 ![Spring Boot DevTools](https://img.shields.io/badge/DevTools-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -113,11 +119,9 @@ A job search management platform designed to help candidates organize every step
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Selihelv&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selihelv&layout=compact&theme=transparent&hide_border=true)
+- Java Backend Development Bootcamp - Ironhack, 2026
 
 ---
 
