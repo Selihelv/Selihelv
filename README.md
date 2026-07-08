@@ -13,7 +13,7 @@ Passionate about building clean, scalable backend applications and continuously 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hlvc.selim/" target="_blank">
+<a href="https://www.linkedin.com/in/hlvcselim/" target="[_blank](https://www.linkedin.com/in/hlvcselim/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
